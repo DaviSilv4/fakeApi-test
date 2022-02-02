@@ -1,8 +1,9 @@
 {
-    "cliente": [
+    "login": [
         {
             "id": "_1",
             "nome": "David Silva",
+            "email": "david@gmail.com",
             "senha": "123"
         }
     ],
